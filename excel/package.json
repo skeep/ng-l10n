@@ -1,0 +1,12 @@
+{
+  "name": "excel",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "excel": "*",
+    "lodash": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
